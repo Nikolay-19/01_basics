@@ -1,0 +1,5 @@
+pages = int(input())
+reading_speed = int(input())
+time = int(input())
+total = int((pages / reading_speed) / time)
+print(total)

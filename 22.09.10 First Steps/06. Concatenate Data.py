@@ -1,0 +1,5 @@
+ime = input()
+familiya = input()
+vazrast = int(input())
+grad = input()
+print(f"You are {ime} {familiya}, a {vazrast}-years old person from {grad}.")
